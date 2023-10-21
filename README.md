@@ -2,10 +2,10 @@
 Read manga from your favourites websites on telegram.
 
 ## Current Development Bot
-[@idkpythonbot](https://t.me/idkpythonbot)
+[@Searchmangabetabot](https://t.me/Searchmangabetabot)
 
-## Telegram Channel
-[tg_manga_bot](https://t.me/tg_manga_bot)
+## Developer Telegram Channel
+[its_Dev-Developer](https://t.me/its_dev-developer)
 
 ## Commands
 ```
@@ -32,3 +32,10 @@ help - Explain how to use the bot
 
 ## Deploy
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+
+## Deploy
+
+You Can Also Customize and Deploy this bot For Free...!
+
+[@itsDev-Developer](https://github.com/itsDev-Developer)
